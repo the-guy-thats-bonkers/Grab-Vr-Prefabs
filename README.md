@@ -8,7 +8,7 @@ you also need atleast 1 prefab slot available
 
 anyways heres the instructions for download
 
-#PC
+# PC
 download the sidequest app on your computer/laptop (doesent need to be good)
 use a link cable to connect your headset to your pc
 get the level file
@@ -22,7 +22,7 @@ prefabs
 then open grab
 (restart it if its already open)
 
-#Quest
+# Quest
 first download Mobile VR Station
 then get a apk of CX file explorer (i get mine from apkpure)
 go onto mobile vr station
