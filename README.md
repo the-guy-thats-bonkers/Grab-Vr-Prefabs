@@ -55,3 +55,9 @@ prefabs
 
 
 then open grab (or restart it)
+
+
+
+
+# For prefab owners.
+if you want your prefab in one of the two folders message yeet_25 on discord aswell as your .level file and i will test it out ingame and maybe put it in
